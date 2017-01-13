@@ -23,9 +23,9 @@ The index.html now includes Denver Post-specific analytics and ads scripts and m
 
 ## What is this?
 
-A searchable list of Super Bowl ads from 2009-2015.
-Live demo (scroll a little ways down): 
-http://www.denverpost.com/ci_25020593/take-look-inside-super-bowl-ad-factory
+A searchable list of Super Bowl ads from 2009-2016.
+Live demo: 
+http://www.denverpost.com/2016/02/02/super-bowl-50-ads-watch-the-ads-from-television-advertisings-biggest-day-of-the-year/
 
 ![Super Bowl ads](screenshots/sbads.png)
 
